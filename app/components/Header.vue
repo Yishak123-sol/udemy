@@ -16,7 +16,11 @@
   <div class="flex items-center justify-between px-6 py-4 bg-white shadow-md">
     <div class="flex items-center space-x-4">
       <div class="flex items-center space-x-1 text-gray-900 text-lg font-bold">
-        <img src="/udemy-logo.svg" alt="Udemy Logo" class="w-20 h-20" />
+        <img
+          src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+          alt="Udemy Logo"
+          class="w-20 h-20"
+        />
       </div>
       <button class="text-sm font-medium text-gray-600">Categories</button>
     </div>
@@ -26,7 +30,7 @@
         <input
           type="text"
           placeholder="Search for anything"
-          class="w-full px-4 py-2 text-sm border rounded-lg bg-gray-100 focus:outline-none"
+          class="w-full pl-10 pr-4 py-2 text-sm border rounded-lg bg-gray-100 focus:outline-none"
         />
         <svg
           xmlns="http://www.w3.org/2000/svg"

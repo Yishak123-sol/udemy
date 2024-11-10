@@ -10,7 +10,7 @@
       </p>
       <div class="flex items-center justify-center mt-4">
         <img
-          src="/image8965422010918071331.png"
+          src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png"
           alt="AWS Certified Solutions Architect – Associate"
           class="w-10 h-10 mr-3"
         />
